@@ -1,0 +1,9 @@
+{
+"name": "my-git-project",
+"version": "1.0.0",
+"description": "My first Git project from FN-003",
+"main": "greet.js",
+"scripts": {
+"greet": "node greet.js"
+}
+}
